@@ -65,8 +65,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=mfaizan-ai&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f093fb&currStreakLabel=7c3aed" alt="GitHub Streak"/>
 </div>
