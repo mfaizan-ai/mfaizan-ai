@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Muhammad%20Faizan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Researcher%20%7C%20PhD%20Student%20%7C%20Deep%20Learning%20Engineer&descAlignY=60&descAlign=50&descColor=e0d7ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Muhammad%20Faizan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=PhD%20Student%20%7C%20Deep%20Learning%20Engineer&descAlignY=60&descAlign=50&descColor=e0d7ff"/>
 </div>
 
 <div align="center">
@@ -21,33 +21,6 @@
     <img src="https://img.shields.io/github/stars/faizan1234567?label=Stars&style=flat-square&color=f093fb&labelColor=1a1a2e&logo=github&logoColor=white"/>
   </a>
 </div>
-
-<br/>
-
----
-
-## 👨‍💻 About Me
-
-```python
-class Faizan:
-    def __init__(self):
-        self.name        = "Muhammad Faizan"
-        self.role        = "PhD Researcher @ Trinity College Dublin"
-        self.location    = "Dublin, Ireland 🇮🇪"
-        self.email       = "engrfaizan.ai@gmail.com"
-        self.interests   = [
-            "Vision Language Models",
-            "Medical Image Analysis",
-            "Large Language Models",
-            "Robot Learning & SLAM",
-            "Embedded AI",
-        ]
-        self.currently   = "Exploring multimodal AI for healthcare"
-        self.fun_fact    = "I turn ☕ into AI models"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something great together 🚀")
-```
 
 <br/>
 
@@ -101,16 +74,6 @@ class Faizan:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizan1234567&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f093fb&currStreakLabel=7c3aed" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faizan1234567&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 <br/>
