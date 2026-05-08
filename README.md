@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizan1234567&label=Profile%20Views&color=7c3aed&style=flat-square&labelColor=1a1a2e" />
+  <img src="https://komarev.com/ghpvc/?username=mfaizan-ai&label=Profile%20Views&color=7c3aed&style=flat-square&labelColor=1a1a2e" />
 </div>
 
 <br/>
@@ -68,21 +68,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=faizan1234567&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f093fb&currStreakLabel=7c3aed" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=mfaizan-ai&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f093fb&currStreakLabel=7c3aed" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizan1234567&theme=tokyonight" alt="Contribution History"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfaizan-ai&theme=tokyonight" alt="Contribution History"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faizan1234567&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mfaizan-ai&theme=tokyonight" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faizan1234567&theme=tokyonight&utcOffset=0" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mfaizan-ai&theme=tokyonight&utcOffset=0" alt="Productive Time"/>
 </div>
 
 <br/>
