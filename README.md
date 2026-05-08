@@ -11,15 +11,15 @@
 <br/>
 
 <div align="center">
+  <a href="https://mfaizan-ai.github.io">
+    <img src="https://img.shields.io/badge/🌐%20mfaizan--ai.github.io-Visit%20My%20Website-7c3aed?style=for-the-badge&labelColor=1a1a2e" alt="Personal Website"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=faizan1234567&label=Profile%20Views&color=7c3aed&style=flat-square&labelColor=1a1a2e" />
-  &nbsp;
-  <a href="https://github.com/faizan1234567?tab=followers">
-    <img src="https://img.shields.io/github/followers/faizan1234567?label=Followers&style=flat-square&color=7c3aed&labelColor=1a1a2e&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/faizan1234567?tab=stars">
-    <img src="https://img.shields.io/github/stars/faizan1234567?label=Stars&style=flat-square&color=f093fb&labelColor=1a1a2e&logo=github&logoColor=white"/>
-  </a>
 </div>
 
 <br/>
@@ -65,12 +65,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizan1234567&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=f093fb&text_color=c9d1d9"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan1234567&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizan1234567&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f093fb&currStreakLabel=7c3aed" alt="GitHub Streak"/>
@@ -145,8 +139,8 @@
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-mfaizan--ai.github.io-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white)](https://mfaizan-ai.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-artificial-intelligence/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/engrfaizan786)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@engr_faizan_ml)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engrfaizan.ai@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/faizan1234567/faizan1234567/blob/main/CV/Faizans_resume.pdf)
