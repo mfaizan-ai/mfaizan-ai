@@ -35,6 +35,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **AI / Deep Learning**
 
@@ -67,7 +68,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizan1234567&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f093fb&currStreakLabel=7c3aed" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=faizan1234567&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f093fb&currStreakLabel=7c3aed" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan1234567&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20%282026%29" alt="Contribution Graph 2026"/>
 </div>
 
 <br/>
@@ -85,6 +92,43 @@
 | 🤖 **Large Language Models** | RAG, fine-tuning, instruction following |
 | 🦾 **Robot Learning** | SLAM, navigation, embodied agents |
 | ⚡ **Embedded AI** | Efficient inference on edge devices |
+
+</div>
+
+<br/>
+
+---
+
+## 🗂️ Open Source Datasets
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**NewsQA**
+
+A question answering dataset built on CNN news articles, designed for reading comprehension and NLP research.
+
+[![GitHub](https://img.shields.io/badge/GitHub-NewsQA-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfaizan-ai/NewsQA)
+![NLP](https://img.shields.io/badge/NLP-Question%20Answering-f093fb?style=flat-square)
+![License](https://img.shields.io/github/license/mfaizan-ai/NewsQA?style=flat-square&color=7c3aed)
+
+</td>
+<td align="center" width="50%">
+
+**Rail Safety Object Detection**
+
+An annotated object detection dataset for railway safety, supporting robust vision models for rail infrastructure monitoring.
+
+[![Figshare](https://img.shields.io/badge/Figshare-Rail%20Safety%20Dataset-e87722?style=for-the-badge&logo=figshare&logoColor=white)](https://figshare.com/articles/dataset/rrl_data_zip/28929923?file=54194006)
+![Vision](https://img.shields.io/badge/Computer%20Vision-Object%20Detection-f093fb?style=flat-square)
+![Domain](https://img.shields.io/badge/Domain-Rail%20Safety-7c3aed?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -145,9 +189,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engrfaizan.ai@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/faizan1234567/faizan1234567/blob/main/CV/Faizans_resume.pdf)
 
-<br/>
-
-*"The best way to predict the future is to create it." — Let's connect and build something amazing!* 🚀
 
 </div>
 
