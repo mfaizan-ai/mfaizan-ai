@@ -1,7 +1,7 @@
 <img src="https://YOUR_SERVER/pixel.gif" width="1" height="1"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=M.%20Faizan%20Ali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=PhD%20Candidate&descAlignY=60&descAlign=50&descColor=e0d7ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=M.%20Faizan%20Ali&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=PhD%20Candidate&descAlignY=60&descAlign=50&descColor=8ecae6"/>
 </div>
 
 <div align="center">
@@ -183,5 +183,5 @@ An annotated object detection dataset for railway safety, supporting robust visi
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=twinkling"/>
 </div>
