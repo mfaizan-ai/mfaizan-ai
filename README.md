@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=PhD+Candidate+%40+Trinity+College+Dublin;Vision+Language+Models;Medical+Image+Analysis;fMRI+Reconstruction+%26+Motion+Correction;Large+Language+Models;Embedded+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=PhD+Candidate+%40+Trinity+College+Dublin;Vision+Language+Models;Medical+Image+Analysis;fMRI+Reconstruction+%26+Motion+Correction;Large+Language+Models;Embedded+AI" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,14 +14,14 @@
 
 <div align="center">
   <a href="https://mfaizan-ai.github.io">
-    <img src="https://img.shields.io/badge/🌐%20mfaizan--ai.github.io-Visit%20My%20Website-7c3aed?style=for-the-badge&labelColor=1a1a2e" alt="Personal Website"/>
+    <img src="https://img.shields.io/badge/🌐%20mfaizan--ai.github.io-Visit%20My%20Website-2c5364?style=for-the-badge&labelColor=0f2027" alt="Personal Website"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mfaizan-ai&label=Profile%20Views&color=7c3aed&style=flat-square&labelColor=1a1a2e" />
+  <img src="https://komarev.com/ghpvc/?username=mfaizan-ai&label=Profile%20Views&color=2c5364&style=flat-square&labelColor=0f2027" />
 </div>
 
 <br/>
@@ -68,21 +68,21 @@
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mfaizan-ai&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f093fb&currStreakLabel=7c3aed" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=mfaizan-ai&theme=tokyonight&hide_border=true&background=0f2027&ring=8ecae6&fire=8ecae6&currStreakLabel=8ecae6" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/7c3aed/mfaizan-ai" alt="Contribution Graph" width="100%"/>
+  <img src="https://ghchart.rshah.org/2c5364/mfaizan-ai" alt="Contribution Graph" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mfaizan-ai&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mfaizan-ai&theme=blue_navy" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mfaizan-ai&theme=tokyonight&utcOffset=0" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mfaizan-ai&theme=blue_navy&utcOffset=0" alt="Productive Time"/>
 </div>
 
 <br/>
@@ -118,9 +118,9 @@
 
 A question answering dataset built on Pakistani news articles, designed for reading comprehension and NLP research.
 
-[![GitHub](https://img.shields.io/badge/GitHub-NewsQA-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfaizan-ai/NewsQA)
-![NLP](https://img.shields.io/badge/NLP-Question%20Answering-f093fb?style=flat-square)
-![License](https://img.shields.io/github/license/mfaizan-ai/NewsQA?style=flat-square&color=7c3aed)
+[![GitHub](https://img.shields.io/badge/GitHub-NewsQA-2c5364?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfaizan-ai/NewsQA)
+![NLP](https://img.shields.io/badge/NLP-Question%20Answering-8ecae6?style=flat-square)
+![License](https://img.shields.io/github/license/mfaizan-ai/NewsQA?style=flat-square&color=2c5364)
 
 </td>
 <td align="center" width="50%">
@@ -129,9 +129,9 @@ A question answering dataset built on Pakistani news articles, designed for read
 
 An annotated object detection dataset for railway safety, supporting robust vision models for rail infrastructure monitoring.
 
-[![Figshare](https://img.shields.io/badge/Figshare-Rail%20Safety%20Dataset-e87722?style=for-the-badge&logo=figshare&logoColor=white)](https://figshare.com/articles/dataset/rrl_data_zip/28929923?file=54194006)
-![Vision](https://img.shields.io/badge/Computer%20Vision-Object%20Detection-f093fb?style=flat-square)
-![Domain](https://img.shields.io/badge/Domain-Rail%20Safety-7c3aed?style=flat-square)
+[![Figshare](https://img.shields.io/badge/Figshare-Rail%20Safety%20Dataset-2c5364?style=for-the-badge&logo=figshare&logoColor=white)](https://figshare.com/articles/dataset/rrl_data_zip/28929923?file=54194006)
+![Vision](https://img.shields.io/badge/Computer%20Vision-Object%20Detection-8ecae6?style=flat-square)
+![Domain](https://img.shields.io/badge/Domain-Rail%20Safety-2c5364?style=flat-square)
 
 </td>
 </tr>
@@ -173,7 +173,7 @@ An annotated object detection dataset for railway safety, supporting robust visi
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-mfaizan--ai.github.io-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white)](https://mfaizan-ai.github.io)
+[![Website](https://img.shields.io/badge/Website-mfaizan--ai.github.io-2c5364?style=for-the-badge&logo=githubpages&logoColor=white)](https://mfaizan-ai.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-artificial-intelligence/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engrfaizan.ai@gmail.com)
 
