@@ -175,9 +175,7 @@ An annotated object detection dataset for railway safety, supporting robust visi
 
 [![Website](https://img.shields.io/badge/Website-mfaizan--ai.github.io-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white)](https://mfaizan-ai.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-artificial-intelligence/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@engr_faizan_ml)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engrfaizan.ai@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/faizan1234567/faizan1234567/blob/main/CV/Faizans_resume.pdf)
 
 
 </div>
