@@ -1,7 +1,7 @@
 <img src="https://YOUR_SERVER/pixel.gif" width="1" height="1"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=M.%20Faizan%20Ali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=PhD%20Student%20%7C%20Deep%20Learning%20Engineer&descAlignY=60&descAlign=50&descColor=e0d7ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=M.%20Faizan%20Ali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=PhD%20Candidate&descAlignY=60&descAlign=50&descColor=e0d7ff"/>
 </div>
 
 <div align="center">
