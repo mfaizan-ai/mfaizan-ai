@@ -80,9 +80,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mfaizan-ai&theme=blue_navy" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mfaizan-ai&theme=tokyonight" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mfaizan-ai&theme=blue_navy&utcOffset=0" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mfaizan-ai&theme=tokyonight&utcOffset=0" alt="Productive Time"/>
 </div>
 
 <br/>
