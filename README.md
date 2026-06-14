@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=PhD+Candidate+%40+Trinity+College+Dublin;Vision+Language+Models;Medical+Image+Analysis;Large+Language+Models;Robot+Learning+%26+Embedded+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=PhD+Candidate+%40+Trinity+College+Dublin;Vision+Language+Models;Medical+Image+Analysis;fMRI+Reconstruction+%26+Motion+Correction;Large+Language+Models;Embedded+AI" alt="Typing SVG" />
   </a>
 </div>
 
@@ -74,7 +74,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfaizan-ai&theme=tokyonight" alt="Contribution History"/>
+  <img src="https://ghchart.rshah.org/7c3aed/mfaizan-ai" alt="Contribution Graph" width="100%"/>
 </div>
 
 <br/>
@@ -96,9 +96,8 @@
 | Area | Focus |
 |------|-------|
 | 🧠 **Vision Language Models** | Multimodal understanding, grounding, and reasoning |
-| 🏥 **Medical Image Analysis** | Brain MRI segmentation, chest X-ray diagnosis |
+| 🏥 **Medical Image Analysis** | Motion & motion-artefact correction in fMRI, fMRI reconstruction, segmentation, Fourier-space (k-space) fMRI analysis |
 | 🤖 **Large Language Models** | RAG, fine-tuning, instruction following |
-| 🦾 **Robot Learning** | SLAM, navigation, embodied agents |
 | ⚡ **Embedded AI** | Efficient inference on edge devices |
 
 </div>
@@ -117,7 +116,7 @@
 
 **NewsQA**
 
-A question answering dataset built on CNN news articles, designed for reading comprehension and NLP research.
+A question answering dataset built on Pakistani news articles, designed for reading comprehension and NLP research.
 
 [![GitHub](https://img.shields.io/badge/GitHub-NewsQA-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfaizan-ai/NewsQA)
 ![NLP](https://img.shields.io/badge/NLP-Question%20Answering-f093fb?style=flat-square)
@@ -139,23 +138,6 @@ An annotated object detection dataset for railway safety, supporting robust visi
 </table>
 
 </div>
-
-<br/>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Start Your AI Career](https://medium.com/@engr_faizan_ml/how-to-start-your-ai-career-e0d12dc7cc4f)
-- [ML Strategies Part 01 — Machine Learning Fundamentals](https://medium.com/@engr_faizan_ml/machine-learning-strategies-286d74a0d0bd)
-- [ML Strategies Part 02 — Dataset Best Practices](https://medium.com/@engr_faizan_ml/machine-learning-strategies-part-2-959eb876b141)
-- [ML Strategies Part 03 — Single Number Evaluation Metric](https://medium.com/@engr_faizan_ml/machine-learning-strategies-part-3-a-single-number-evaluation-metric-dac45ff55c45)
-- [ML Strategies Part 04 — Basic Error Analysis](https://medium.com/mlearning-ai/machine-learning-strategies-part-04-basic-error-analysis-7a38cf0154b1)
-- [ML Strategies Part 05 — Bias and Variance](https://medium.com/@engr_faizan_ml/machine-learning-strategies-part-05-bias-and-variance-621e9d21811)
-<!-- BLOG-POST-LIST:END -->
-
-▶ [More posts on Medium →](https://medium.com/@engr_faizan_ml)
 
 <br/>
 
