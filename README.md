@@ -89,16 +89,16 @@
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 <div align="center">
 
 | Area | Focus |
 |------|-------|
-| 🧠 **Vision Language Models** | Multimodal understanding, grounding, and reasoning |
-| 🏥 **Medical Image Analysis** | Motion & motion-artefact correction in fMRI, fMRI reconstruction, segmentation, Fourier-space (k-space) fMRI analysis |
-| 🤖 **Large Language Models** | RAG, fine-tuning, instruction following |
-| ⚡ **Embedded AI** | Efficient inference on edge devices |
+| **Vision Language Models** | Multimodal understanding, grounding, and reasoning |
+| **Medical Image Analysis** | Motion & motion-artefact correction in fMRI, fMRI reconstruction, segmentation, Fourier-space (k-space) fMRI analysis |
+| **Large Language Models** | RAG, fine-tuning, instruction following |
+| **Embedded AI** | Efficient inference on edge devices |
 
 </div>
 
