@@ -128,12 +128,10 @@ An annotated object detection dataset for railway safety, supporting robust visi
 | 02 | [TensorFlow in Practice Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/TNR7XP37MY6V) | [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/share/222124c2144bae0825267237cc581408) [![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-FF6F61?style=flat-square)](https://www.deeplearning.ai) |
 | 03 | [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/J9JGV57EN7JZ) | [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/share/0e2fa9480b318472374980dee25addf4) [![Stanford Online](https://img.shields.io/badge/Stanford%20Online-8C1515?style=flat-square)](https://online.stanford.edu) |
 | 04 | [AI for Medical Diagnosis](https://www.coursera.org/account/accomplishments/certificate/42YTKKCRKFD6) | [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/share/c19ab7178790d5f897f9c85d1d80951d) [![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-FF6F61?style=flat-square)](https://www.deeplearning.ai) |
-| 05 | [Custom Models, Layers & Loss Functions with TF](https://www.coursera.org/account/accomplishments/certificate/H4ZG24SLMPH8) | Coursera |
-| 06 | [Custom & Distributed Training with TF](https://www.coursera.org/account/accomplishments/certificate/6EET8W6FEBE6) | Coursera |
-| 07 | [Mathematics for ML: Multivariate Calculus](https://www.coursera.org/account/accomplishments/certificate/F89VBDTLRUNY) | Coursera / Imperial |
-| 08 | [Mathematics for ML: Linear Algebra](https://www.coursera.org/account/accomplishments/certificate/FJDM4WEDKAMS) | Coursera / Imperial |
-| 09 | [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/42YTKKCRKFD6) | Coursera / DeepLearning.AI |
-| 10 | [MATLAB Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=051755cf-4149-4122-a948-688abf2012f4&) | MathWorks |
+| 05 | [Mathematics for ML: Multivariate Calculus](https://www.coursera.org/account/accomplishments/certificate/F89VBDTLRUNY) | Coursera / Imperial |
+| 06 | [Mathematics for ML: Linear Algebra](https://www.coursera.org/account/accomplishments/certificate/FJDM4WEDKAMS) | Coursera / Imperial |
+| 07 | [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/42YTKKCRKFD6) | Coursera / DeepLearning.AI |
+| 08 | [MATLAB Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=051755cf-4149-4122-a948-688abf2012f4&) | MathWorks |
 
 </details>
 
