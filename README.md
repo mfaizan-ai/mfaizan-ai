@@ -20,12 +20,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mfaizan-ai&label=Profile%20Views&color=2c5364&style=flat-square&labelColor=0f2027" />
-</div>
-
-<br/>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -61,28 +55,6 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mfaizan-ai&theme=tokyonight&hide_border=true&background=0f2027&ring=8ecae6&fire=8ecae6&currStreakLabel=8ecae6" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/2c5364/mfaizan-ai" alt="Contribution Graph" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mfaizan-ai&theme=tokyonight" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mfaizan-ai&theme=tokyonight&utcOffset=0" alt="Productive Time"/>
 </div>
 
 <br/>
@@ -172,6 +144,12 @@ An annotated object detection dataset for railway safety, supporting robust visi
 ## 🤝 Connect With Me
 
 <div align="center">
+
+**🚀 Open to opportunities**
+
+I'm open to **research collaborations**, **AI consulting** on LLMs & VLMs, and **deep learning roles**.<br/>
+If you're working on something interesting, feel free to reach out!
+
 
 [![Website](https://img.shields.io/badge/Website-mfaizan--ai.github.io-2c5364?style=for-the-badge&logo=githubpages&logoColor=white)](https://mfaizan-ai.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-artificial-intelligence/)
