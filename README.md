@@ -125,7 +125,7 @@ An annotated object detection dataset for railway safety, supporting robust visi
 | # | Certificate | Issuer |
 |---|-------------|--------|
 | 01 | [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/KBM9GR7WU5UJ) | [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.credly.com/badges/9463dca0-c0ab-4515-95e1-20e572372c13/public_url) [![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-FF6F61?style=flat-square)](https://www.deeplearning.ai) |
-| 02 | [TensorFlow in Practice Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/TNR7XP37MY6V) | Coursera / DeepLearning.AI |
+| 02 | [TensorFlow in Practice Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/TNR7XP37MY6V) | [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/share/222124c2144bae0825267237cc581408) [![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-FF6F61?style=flat-square)](https://www.deeplearning.ai) |
 | 03 | [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/J9JGV57EN7JZ) | Coursera / Stanford |
 | 04 | [AI for Medical Diagnosis](https://www.coursera.org/account/accomplishments/certificate/42YTKKCRKFD6) | Coursera / DeepLearning.AI |
 | 05 | [Custom Models, Layers & Loss Functions with TF](https://www.coursera.org/account/accomplishments/certificate/H4ZG24SLMPH8) | Coursera |
