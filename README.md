@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://mfaizan-ai.github.io">
-    <img src="https://img.shields.io/badge/🌐%20mfaizan--ai.github.io-Visit%20My%20Website-2c5364?style=for-the-badge&labelColor=0f2027" alt="Personal Website"/>
+    <img src="https://img.shields.io/badge/🌐%20mfaizan--ai.github.io-Visit%20My%20Website-E6FFE6?style=for-the-badge&labelColor=1B4332" alt="Personal Website"/>
   </a>
 </div>
 
@@ -90,9 +90,9 @@
 
 A question answering dataset built on Pakistani news articles, designed for reading comprehension and NLP research.
 
-[![GitHub](https://img.shields.io/badge/GitHub-NewsQA-2c5364?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfaizan-ai/NewsQA)
-![NLP](https://img.shields.io/badge/NLP-Question%20Answering-8ecae6?style=flat-square)
-![License](https://img.shields.io/github/license/mfaizan-ai/NewsQA?style=flat-square&color=2c5364)
+[![GitHub](https://img.shields.io/badge/GitHub-NewsQA-E6FFE6?style=for-the-badge&labelColor=1B4332&logo=github&logoColor=white)](https://github.com/mfaizan-ai/NewsQA)
+![NLP](https://img.shields.io/badge/NLP-Question%20Answering-E6FFE6?style=flat-square&labelColor=1B4332)
+![License](https://img.shields.io/github/license/mfaizan-ai/NewsQA?style=flat-square&color=E6FFE6&labelColor=1B4332)
 
 </td>
 <td align="center" width="50%">
@@ -101,9 +101,9 @@ A question answering dataset built on Pakistani news articles, designed for read
 
 An annotated object detection dataset for railway safety, supporting robust vision models for rail infrastructure monitoring.
 
-[![Figshare](https://img.shields.io/badge/Figshare-Rail%20Safety%20Dataset-2c5364?style=for-the-badge&logo=figshare&logoColor=white)](https://figshare.com/articles/dataset/rrl_data_zip/28929923?file=54194006)
-![Vision](https://img.shields.io/badge/Computer%20Vision-Object%20Detection-8ecae6?style=flat-square)
-![Domain](https://img.shields.io/badge/Domain-Rail%20Safety-2c5364?style=flat-square)
+[![Figshare](https://img.shields.io/badge/Figshare-Rail%20Safety%20Dataset-E6FFE6?style=for-the-badge&labelColor=1B4332&logo=figshare&logoColor=white)](https://figshare.com/articles/dataset/rrl_data_zip/28929923?file=54194006)
+![Vision](https://img.shields.io/badge/Computer%20Vision-Object%20Detection-E6FFE6?style=flat-square&labelColor=1B4332)
+![Domain](https://img.shields.io/badge/Domain-Rail%20Safety-E6FFE6?style=flat-square&labelColor=1B4332)
 
 </td>
 </tr>
