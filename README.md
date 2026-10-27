@@ -158,3 +158,18 @@ If you're working on something interesting, feel free to reach out!
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=twinkling"/>
 </div>
+
+<!--
+Colour record (hidden from the rendered profile)
+
+Current theme (original dark blue):
+  Banner gradient: 0f2027 -> 203a43 -> 2c5364
+  Name text: ffffff | Subtitle text: 8ecae6
+  Badges: 2c5364 (main), 8ecae6 (accent), 0f2027 (website label)
+
+Experimented themes:
+  1. Very light green: E6FFE6 (text/labels 1B4332, subtitle 2D6A4F)
+  2. Light green:      AFE1AF (text/labels 1B4332, subtitle 2D6A4F)
+  3. Pastel green:     C1E1C1 (text/labels 1B4332, subtitle 2D6A4F)
+  4. Purple:           BF40BF (name FFFFFF, subtitle F8E1F8, labels 4A154B)
+-->
