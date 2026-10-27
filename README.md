@@ -1,7 +1,7 @@
 <img src="https://YOUR_SERVER/pixel.gif" width="1" height="1"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=C1E1C1&height=220&section=header&text=M.%20Faizan%20Ali&fontSize=52&fontColor=1B4332&animation=twinkling&fontAlignY=40&desc=PhD%20Candidate&descAlignY=60&descAlign=50&descColor=2D6A4F"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=BF40BF&height=220&section=header&text=M.%20Faizan%20Ali&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=PhD%20Candidate&descAlignY=60&descAlign=50&descColor=F8E1F8"/>
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://mfaizan-ai.github.io">
-    <img src="https://img.shields.io/badge/🌐%20mfaizan--ai.github.io-Visit%20My%20Website-C1E1C1?style=for-the-badge&labelColor=1B4332" alt="Personal Website"/>
+    <img src="https://img.shields.io/badge/🌐%20mfaizan--ai.github.io-Visit%20My%20Website-BF40BF?style=for-the-badge&labelColor=4A154B" alt="Personal Website"/>
   </a>
 </div>
 
@@ -90,9 +90,9 @@
 
 A question answering dataset built on Pakistani news articles, designed for reading comprehension and NLP research.
 
-[![GitHub](https://img.shields.io/badge/GitHub-NewsQA-C1E1C1?style=for-the-badge&labelColor=1B4332&logo=github&logoColor=white)](https://github.com/mfaizan-ai/NewsQA)
-![NLP](https://img.shields.io/badge/NLP-Question%20Answering-C1E1C1?style=flat-square&labelColor=1B4332)
-![License](https://img.shields.io/github/license/mfaizan-ai/NewsQA?style=flat-square&color=C1E1C1&labelColor=1B4332)
+[![GitHub](https://img.shields.io/badge/GitHub-NewsQA-BF40BF?style=for-the-badge&labelColor=4A154B&logo=github&logoColor=white)](https://github.com/mfaizan-ai/NewsQA)
+![NLP](https://img.shields.io/badge/NLP-Question%20Answering-BF40BF?style=flat-square&labelColor=4A154B)
+![License](https://img.shields.io/github/license/mfaizan-ai/NewsQA?style=flat-square&color=BF40BF&labelColor=4A154B)
 
 </td>
 <td align="center" width="50%">
@@ -101,9 +101,9 @@ A question answering dataset built on Pakistani news articles, designed for read
 
 An annotated object detection dataset for railway safety, supporting robust vision models for rail infrastructure monitoring.
 
-[![Figshare](https://img.shields.io/badge/Figshare-Rail%20Safety%20Dataset-C1E1C1?style=for-the-badge&labelColor=1B4332&logo=figshare&logoColor=white)](https://figshare.com/articles/dataset/rrl_data_zip/28929923?file=54194006)
-![Vision](https://img.shields.io/badge/Computer%20Vision-Object%20Detection-C1E1C1?style=flat-square&labelColor=1B4332)
-![Domain](https://img.shields.io/badge/Domain-Rail%20Safety-C1E1C1?style=flat-square&labelColor=1B4332)
+[![Figshare](https://img.shields.io/badge/Figshare-Rail%20Safety%20Dataset-BF40BF?style=for-the-badge&labelColor=4A154B&logo=figshare&logoColor=white)](https://figshare.com/articles/dataset/rrl_data_zip/28929923?file=54194006)
+![Vision](https://img.shields.io/badge/Computer%20Vision-Object%20Detection-BF40BF?style=flat-square&labelColor=4A154B)
+![Domain](https://img.shields.io/badge/Domain-Rail%20Safety-BF40BF?style=flat-square&labelColor=4A154B)
 
 </td>
 </tr>
@@ -156,5 +156,5 @@ If you're working on something interesting, feel free to reach out!
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=C1E1C1&height=120&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=BF40BF&height=120&section=footer&animation=twinkling"/>
 </div>
