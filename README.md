@@ -147,7 +147,8 @@ An annotated object detection dataset for railway safety, supporting robust visi
 
 **🚀 Open to opportunities**
 
-I'm open to **research collaborations**, **AI consulting** on LLMs & VLMs, and **deep learning roles**.<br/>
+I'm open to **research collaborations**, **part-time AI consulting**, and **Generative AI roles**,<br/>
+from Large Language Models to generative models for medical imaging.<br/>
 If you're working on something interesting, feel free to reach out!
 
 
