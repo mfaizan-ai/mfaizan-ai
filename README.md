@@ -117,10 +117,6 @@ An annotated object detection dataset for railway safety, supporting robust visi
 
 ## 🎓 Certifications
 
-<details>
-<summary><b>Click to expand 📜</b></summary>
-
-<br/>
 
 | # | Certificate | Issuer |
 |---|-------------|--------|
@@ -134,8 +130,6 @@ An annotated object detection dataset for railway safety, supporting robust visi
 | 08 | [MATLAB Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=051755cf-4149-4122-a948-688abf2012f4&) | [![MathWorks](https://img.shields.io/badge/MathWorks-0076A8?style=flat-square&logo=mathworks&logoColor=white)](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=051755cf-4149-4122-a948-688abf2012f4&) |
 | 09 | [Generative AI with Large Language Models](https://coursera.org/share/fc93e359e55788d07f89ac0c6b834154) | [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/share/fc93e359e55788d07f89ac0c6b834154) [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com) |
 | 10 | [Machine Learning in Production](https://coursera.org/share/c05dc5811f1d54652859ec52b65d338f) | [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/share/c05dc5811f1d54652859ec52b65d338f) [![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-FF6F61?style=flat-square)](https://www.deeplearning.ai) |
-
-</details>
 
 <br/>
 
