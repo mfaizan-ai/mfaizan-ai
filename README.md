@@ -1,7 +1,7 @@
 <img src="https://YOUR_SERVER/pixel.gif" width="1" height="1"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=M.%20Faizan%20Ali&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=PhD%20Candidate&descAlignY=60&descAlign=50&descColor=8ecae6"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E6FFE6&height=220&section=header&text=M.%20Faizan%20Ali&fontSize=52&fontColor=1B4332&animation=twinkling&fontAlignY=40&desc=PhD%20Candidate&descAlignY=60&descAlign=50&descColor=2D6A4F"/>
 </div>
 
 <div align="center">
@@ -161,5 +161,5 @@ If you're working on something interesting, feel free to reach out!
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E6FFE6&height=120&section=footer&animation=twinkling"/>
 </div>
