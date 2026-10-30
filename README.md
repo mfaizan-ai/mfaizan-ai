@@ -61,7 +61,7 @@
 
 ---
 
-## Research Interests
+## 🔬 Research Interests
 
 <div align="center">
 
