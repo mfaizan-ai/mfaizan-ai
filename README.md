@@ -139,12 +139,6 @@ An annotated object detection dataset for railway safety, supporting robust visi
 
 <div align="center">
 
-**🚀 Open to opportunities**
-
-I'm open to **research collaborations**, **part-time AI consulting**, and **Generative AI roles**,<br/>
-from Large Language Models to generative models for medical imaging.<br/>
-If you're working on something interesting, feel free to reach out!
-
 
 [![Website](https://img.shields.io/badge/Website-mfaizan--ai.github.io-2c5364?style=for-the-badge&logo=githubpages&logoColor=white)](https://mfaizan-ai.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-artificial-intelligence/)
