@@ -1,7 +1,7 @@
 <img src="https://YOUR_SERVER/pixel.gif" width="1" height="1"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E0B0FF&height=220&section=header&text=M.%20Faizan%20Ali&fontSize=52&fontColor=3C096C&animation=twinkling&fontAlignY=40&desc=PhD%20Candidate&descAlignY=60&descAlign=50&descColor=7B2CBF"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=M.%20Faizan%20Ali&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=PhD%20Candidate&descAlignY=60&descAlign=50&descColor=8ecae6"/>
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://mfaizan-ai.github.io">
-    <img src="https://img.shields.io/badge/🌐%20mfaizan--ai.github.io-Visit%20My%20Website-7B2CBF?style=for-the-badge&labelColor=3C096C" alt="Personal Website"/>
+    <img src="https://img.shields.io/badge/🌐%20mfaizan--ai.github.io-Visit%20My%20Website-2c5364?style=for-the-badge&labelColor=0f2027" alt="Personal Website"/>
   </a>
 </div>
 
@@ -90,9 +90,9 @@
 
 A question answering dataset built on Pakistani news articles, designed for reading comprehension and NLP research.
 
-[![GitHub](https://img.shields.io/badge/GitHub-NewsQA-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfaizan-ai/NewsQA)
-![NLP](https://img.shields.io/badge/NLP-Question%20Answering-7B2CBF?style=flat-square)
-![License](https://img.shields.io/github/license/mfaizan-ai/NewsQA?style=flat-square&color=7B2CBF)
+[![GitHub](https://img.shields.io/badge/GitHub-NewsQA-2c5364?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfaizan-ai/NewsQA)
+![NLP](https://img.shields.io/badge/NLP-Question%20Answering-8ecae6?style=flat-square)
+![License](https://img.shields.io/github/license/mfaizan-ai/NewsQA?style=flat-square&color=2c5364)
 
 </td>
 <td align="center" width="50%">
@@ -101,9 +101,9 @@ A question answering dataset built on Pakistani news articles, designed for read
 
 An annotated object detection dataset for railway safety, supporting robust vision models for rail infrastructure monitoring.
 
-[![Figshare](https://img.shields.io/badge/Figshare-Rail%20Safety%20Dataset-7B2CBF?style=for-the-badge&logo=figshare&logoColor=white)](https://figshare.com/articles/dataset/rrl_data_zip/28929923?file=54194006)
-![Vision](https://img.shields.io/badge/Computer%20Vision-Object%20Detection-7B2CBF?style=flat-square)
-![Domain](https://img.shields.io/badge/Domain-Rail%20Safety-7B2CBF?style=flat-square)
+[![Figshare](https://img.shields.io/badge/Figshare-Rail%20Safety%20Dataset-2c5364?style=for-the-badge&logo=figshare&logoColor=white)](https://figshare.com/articles/dataset/rrl_data_zip/28929923?file=54194006)
+![Vision](https://img.shields.io/badge/Computer%20Vision-Object%20Detection-8ecae6?style=flat-square)
+![Domain](https://img.shields.io/badge/Domain-Rail%20Safety-2c5364?style=flat-square)
 
 </td>
 </tr>
@@ -140,7 +140,7 @@ An annotated object detection dataset for railway safety, supporting robust visi
 <div align="center">
 
 
-[![Website](https://img.shields.io/badge/Website-mfaizan--ai.github.io-7B2CBF?style=for-the-badge&logo=githubpages&logoColor=white)](https://mfaizan-ai.github.io)
+[![Website](https://img.shields.io/badge/Website-mfaizan--ai.github.io-2c5364?style=for-the-badge&logo=githubpages&logoColor=white)](https://mfaizan-ai.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-artificial-intelligence/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engrfaizan.ai@gmail.com)
 
@@ -150,25 +150,22 @@ An annotated object detection dataset for railway safety, supporting robust visi
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E0B0FF&height=120&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=twinkling"/>
 </div>
 
 <!--
 Colour record (hidden from the rendered profile)
 
-Current theme (mauve):
-  Banner background: E0B0FF
-  Name text: 3C096C | Subtitle text: 7B2CBF
-  Badges: 7B2CBF (strong purple), 3C096C (website label)
-
-Original theme (dark blue, "Moonlit Asteroid"):
+Current theme (original dark blue, "Moonlit Asteroid"):
   Banner gradient: 0f2027 -> 203a43 -> 2c5364
   Name text: ffffff | Subtitle text: 8ecae6
   Badges: 2c5364 (main), 8ecae6 (accent), 0f2027 (website label)
+  Typing animation: 2C5364
 
 Experimented themes:
   1. Very light green: E6FFE6 (text/labels 1B4332, subtitle 2D6A4F)
   2. Light green:      AFE1AF (text/labels 1B4332, subtitle 2D6A4F)
   3. Pastel green:     C1E1C1 (text/labels 1B4332, subtitle 2D6A4F)
   4. Purple:           BF40BF (name FFFFFF, subtitle F8E1F8, labels 4A154B)
+  5. Mauve:            E0B0FF (name 3C096C, subtitle 7B2CBF, badges 7B2CBF, labels 3C096C, typing 9D4EDD)
 -->
