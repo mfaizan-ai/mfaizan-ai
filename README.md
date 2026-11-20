@@ -1,7 +1,7 @@
 <img src="https://YOUR_SERVER/pixel.gif" width="1" height="1"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=C1E1C1&height=220&section=header&text=M.%20Faizan%20Ali&fontSize=52&fontColor=1B4332&animation=twinkling&fontAlignY=40&desc=PhD%20Candidate&descAlignY=60&descAlign=50&descColor=2D6A4F"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E6CCB2&height=220&section=header&text=M.%20Faizan%20Ali&fontSize=52&fontColor=1B4332&animation=twinkling&fontAlignY=40&desc=PhD%20Candidate&descAlignY=60&descAlign=50&descColor=2D6A4F"/>
 </div>
 
 <div align="center">
@@ -150,14 +150,14 @@ An annotated object detection dataset for railway safety, supporting robust visi
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=C1E1C1&height=120&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E6CCB2&height=120&section=footer&animation=twinkling"/>
 </div>
 
 <!--
 Colour record (hidden from the rendered profile)
 
-Current theme (pastel green):
-  Banner background: C1E1C1
+Current theme (light brown banners, green badges):
+  Banner background: E6CCB2 (light brown; was C1E1C1 pastel green)
   Name text: 1B4332 | Subtitle text: 2D6A4F
   Badges: 2E8B57 (sea green), 1B4332 (website label)
   Typing animation: 2E8B57
